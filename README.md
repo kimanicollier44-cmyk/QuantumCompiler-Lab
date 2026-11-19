@@ -1,4 +1,4 @@
-![QuantumCompiler-Lab cover](assets/cover.png)
+![QuantumCompiler-Lab cover](QuantumCompiler-Lab%20cover.png)
 
 # QuantumCompiler-Lab 🧮⚛️
 
